@@ -1,9 +1,3 @@
-# Set working directory and import datafiles
-# Your working directory might vary
-
-setwd("~/datasets/titanic")
-train <- read.csv("~/datasets/titanic/train.csv")
-test <- read.csv("~/datasets/titanic/test.csv")
 
 # We need to Install + load packages for decision trees and random forests
 
