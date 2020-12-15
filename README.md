@@ -1,4 +1,4 @@
-# Titanic-Machine-Learning-from-Disaster
+# Prediction on Titanic Disaster with Machine Learning in R
 This repository contains a machine learning project for predicting survival of passengers who travelled on Titanic Ship in 1912.
 
 # Problem Description-
@@ -29,11 +29,11 @@ Keep iterating over the above steps again and again and tune them according to t
 
 # File Description
 
-titanic_predictor - contains python code for predicting survival.
+1st to 7th Prediction file - contains R code for predicting survival.
 
-my_solution.csv - contains sample output file generated from algorithm.
+Kaggle Submission Folder - contains sample output file generated from algorithm.
 
-train.csv- contains training data
+train.csv - contains training data
 
 test.csv - contains testing data for making predictions
 
